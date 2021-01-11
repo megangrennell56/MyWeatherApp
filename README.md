@@ -1,7 +1,3 @@
-# Quasar App (quasar-weather)
-
-A Quasar Framework app
-
 ## Install the dependencies
 ```bash
 npm install
